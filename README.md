@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-  <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right" width="350px" height="200px" />
 </h3>
 
 
