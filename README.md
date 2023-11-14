@@ -20,7 +20,7 @@ I constantly strive for self-improvement and study new technologies.
 <br/><br/>
 
 <h5 align="center">
-  <img src="https://github.com/AlTheOne/AlTheOne/blob/main/Handshake.gif?raw=true" align="center" alt="AlTheOne contacts" height="33px" />
+  ![handshake](https://github.com/AlTheOne/AlTheOne/blob/main/Handshake.gif)
 </h5> 
 
 <h3 align="center">
@@ -72,7 +72,7 @@ I constantly strive for self-improvement and study new technologies.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Goland](https://img.shields.io/badge/Goland-000000.svg?style=for-the-badge&logo=Goland&logoColor=white)
 
-And many more...
+and many more...
 
 <div align="center">
   <h5 align="center">Connect with me</h5> 
