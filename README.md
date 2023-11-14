@@ -19,9 +19,9 @@ I constantly strive for self-improvement and study new technologies.
 
 <br/><br/>
 
-<h5 align="center">
-  ![handshake](https://github.com/AlTheOne/AlTheOne/blob/main/Handshake.gif)
-</h5> 
+<div align="center">
+  <img src="https://github.com/AlTheOne/AlTheOne/blob/main/Handshake.gif" height="40" />
+</div> 
 
 <h3 align="center">
 
