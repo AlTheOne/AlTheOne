@@ -1,7 +1,7 @@
 # Aleksandr AlTheOne
 
   <br/><br/>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Aleksandr+AlTheOne;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;)](https://github.com/AlTheOne/)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Aleksandr+AlTheOne.+Welcome+to+My+Profile!;Always+learning+new+things;)](https://github.com/AlTheOne/)
   <br/><br/>
 
 
@@ -13,7 +13,7 @@
 Hi, I'm Aleksandr AlTheOne.
 
 I specialize in software development, design and architecture of complex systems. \
-I am a founder of [Cyber Organization](https://github.com/cyber-organization) and co-founder [Tenger.DEV](https://tenger.dev/en).
+I am a founder of the [Cyber Organization](https://github.com/cyber-organization) and co-founder [Tenger.DEV](https://tenger.dev/en).
 
 I constantly strive for self-improvement and study new technologies.
 
