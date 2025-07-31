@@ -4,20 +4,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Aleksandr+AlTheOne.;Welcome+to+my+profile!;Always+learning+something+new.)](https://github.com/AlTheOne/)
 <br/><br/>
 
-
-<h3 align="center">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right" width="350px" />
-</h3>
-
 ## 👋 About me
 
+<div style="display:flex; justify-content: center; align-items: center; gap: 20px;">
+<div>
 Hi, I'm Aleksandr AlTheOne.
 
 I specialize in software development, and the design and architecture of complex systems. \
 I'm the founder of [Cyber Organization](https://github.com/cyber-organization) and a co-founder of [Tenger.DEV](https://tenger.dev/en).
 
 I'm constantly striving for self-improvement and exploring new technologies.
-
+</div>
+<div>
+<img src="./assets/main_pic.gif">
+</div>
+</div>
 
 ## 📖 Content
 
@@ -123,7 +124,7 @@ and many more...
 
 ## 🧠 Certificates
 
-<center>
+<div style="display: flex;flex-wrap: wrap; justify-content: center; gap: 16px;">
 <a href="https://files.rebrainme.com/certificates/1F74B062EDF9E0BC2DD47961BDBB7856EN.pdf" target="_blank">
   <img
     src="https://files.rebrainme.com/certificates/1F74B062EDF9E0BC2DD47961BDBB7856EN.png"
@@ -172,12 +173,20 @@ and many more...
     title="Hashicorp Vault"
   >
 </a>
+<a href="https://gogit.ru/certificate/99bpmuwyfwoffyly" target="_blank">
+  <img
+    src="./assets/cert_gogit.jpg"
+    width="300px"
+    alt="Go Git"
+    title="Go Git"
+  >
+</a>
 <a href="https://stepik.org/cert/136720?lang=en" target="_blank">
   <img
-    src="https://stepik.org/certificate/10f98be07667f497b93d545ff0f2c4bd6ff056eb.png?language=en&resolution=medium"
+    src="./assets/cert_math_statistics.png"
     width="300px"
     alt="Basic of statistic"
     title="Basic of statistic"
   >
 </a>
-</center>
+</div>
